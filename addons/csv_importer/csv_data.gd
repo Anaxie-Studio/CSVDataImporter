@@ -1,5 +1,5 @@
 tool
-class_name CSVDataImporter
+class_name CSVData
 extends Resource
 
 
